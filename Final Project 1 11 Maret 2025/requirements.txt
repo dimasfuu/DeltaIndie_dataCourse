@@ -1,0 +1,7 @@
+numpy
+streamlit
+pandas
+scikit-learn
+matplotlib
+joblib
+python >= 3.10
